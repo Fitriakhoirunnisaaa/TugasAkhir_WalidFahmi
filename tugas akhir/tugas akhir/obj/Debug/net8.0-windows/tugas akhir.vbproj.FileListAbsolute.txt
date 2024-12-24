@@ -1,0 +1,17 @@
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\bin\Debug\net8.0-windows\tugas akhir.exe
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\bin\Debug\net8.0-windows\tugas akhir.deps.json
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\bin\Debug\net8.0-windows\tugas akhir.runtimeconfig.json
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\bin\Debug\net8.0-windows\tugas akhir.dll
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\bin\Debug\net8.0-windows\tugas akhir.pdb
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas_akhir.Form1.resources
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.vbproj.GenerateResource.cache
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.AssemblyInfoInputs.cache
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.AssemblyInfo.vb
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.vbproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.dll
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\refint\tugas akhir.dll
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.pdb
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas akhir.genruntimeconfig.cache
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\ref\tugas akhir.dll
+C:\Users\Walid\source\repos\tugas akhir\tugas akhir\obj\Debug\net8.0-windows\tugas_akhir.Resources.resources
